@@ -5,9 +5,9 @@
 
 2. Decisões técnicas:
   - Utilizei as seguintes técnologias:
-    > Java 17
-    > Spring Boot 3
-    > Maven
-    > JUnit 5
-    > Mockito
-    > MockMvc
+    - Java 17
+    - Spring Boot 3
+    - Maven
+    - JUnit 5
+    - Mockito
+    - MockMvc

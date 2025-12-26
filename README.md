@@ -4,7 +4,7 @@
   - No diretório raiz do projeto, execute o comando .\mvnw spring-boot:run
 
 2. Decisões técnicas:
-  - Utilizei as seguintes técnologias:
+  - Utilizei as seguintes tecnologias:
     - Java 17
     - Spring Boot 3
     - Maven
